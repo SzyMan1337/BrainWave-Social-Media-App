@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504349619174",
+    "project_id": "brainwaive-social-media",
+    "storage_bucket": "brainwaive-social-media.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504349619174:android:ee53331dd4804e1d0e9c27",
+        "android_client_info": {
+          "package_name": "app.brainwaive.brainwaivesocialapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqyye0y1mYF9gi4NCNQVHzExXerWdfcwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

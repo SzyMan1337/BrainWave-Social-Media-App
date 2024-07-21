@@ -1,0 +1,49 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "brainwaive-social-media",
+          "appId": "1:504349619174:android:ee53331dd4804e1d0e9c27",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "brainwaive-social-media",
+          "configurations": {
+            "android": "1:504349619174:android:ee53331dd4804e1d0e9c27",
+            "ios": "1:504349619174:ios:8d11f061e36dfc170e9c27",
+            "macos": "1:504349619174:ios:8d11f061e36dfc170e9c27",
+            "web": "1:504349619174:web:ddac7463795a0edc0e9c27",
+            "windows": "1:504349619174:web:806417638aa78d900e9c27"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "auth": {
+      "port": 9099
+    },
+    "functions": {
+      "port": 5001
+    },
+    "firestore": {
+      "port": 8080
+    },
+    "database": {
+      "port": 9000
+    },
+    "hosting": {
+      "port": 5000
+    },
+    "storage": {
+      "port": 9199
+    },
+    "ui": {
+      "enabled": true
+    },
+    "singleProjectMode": true
+  }
+}
