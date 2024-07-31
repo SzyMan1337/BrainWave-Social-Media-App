@@ -12,7 +12,20 @@
           "package_name": "app.brainwaive.brainwaivesocialapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "504349619174-napnk2ne0iu3j5o0pvbn8hnecfapsv97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.brainwaive.brainwaivesocialapp",
+            "certificate_hash": "bf8e370fd3a4ff70bbf91b05b03c33a20a1f679f"
+          }
+        },
+        {
+          "client_id": "504349619174-k1t7hhpv4gqo8vhion8gkk91dkec6dst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAqyye0y1mYF9gi4NCNQVHzExXerWdfcwY"
@@ -20,7 +33,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504349619174-k1t7hhpv4gqo8vhion8gkk91dkec6dst.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504349619174-mpoh4ukd62914756pvii5o6pvrnk0m0n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.brainwaive.brainwaivesocialapp"
+              }
+            }
+          ]
         }
       }
     }

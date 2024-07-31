@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>504349619174-mpoh4ukd62914756pvii5o6pvrnk0m0n.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.504349619174-mpoh4ukd62914756pvii5o6pvrnk0m0n</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>504349619174-napnk2ne0iu3j5o0pvbn8hnecfapsv97.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoYusJL_i72Okmzfu1swSrwAS28Bqnc0E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>504349619174</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.brainwaive.brainwaivesocialapp</string>
+	<key>PROJECT_ID</key>
+	<string>brainwaive-social-media</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brainwaive-social-media.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:504349619174:ios:8d11f061e36dfc170e9c27</string>
+</dict>
+</plist>
